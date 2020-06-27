@@ -2,6 +2,10 @@
 
 ##### Visualize all kinds of graph algorithms!
 
+- ## Links
+
+  - Play it on your browser: https://ununununium.github.io/Graph_Algorithm/Build/
+
 
 
 - ## Preview
