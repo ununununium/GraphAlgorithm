@@ -5,6 +5,7 @@
 - ## Links
 
   - Play it on your browser: https://ununununium.github.io/Graph_Algorithm/Build/
+  - AppStore Link: https://apps.apple.com/us/app/graph-algorithm/id1520511021
 
 
 
